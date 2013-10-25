@@ -1,8 +1,7 @@
 //time-date-insert plugin for jQuery 1.4.4+
 //NNovation Labs c/o Adam Lara
-//Dual licensed under the MIT and GPL licenses. 
+//Dual licensed under the MIT  license. 
 //http://www.opensource.org/licenses/mit-license.php 
-//http://www.gnu.org/copyleft/gpl.html
 
 (function( $ ){
 
